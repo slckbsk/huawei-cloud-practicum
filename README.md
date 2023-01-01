@@ -33,6 +33,9 @@ https://doc.hcs.huawei.com/obs/doc/download/pdf/obs-usermanual.pdf
 
 https://support.huaweicloud.com/intl/en-us/obs_faq/obs_03_0087.html#obs_03_0087__section178791518193918
 
+## Image Tagging SDK
+https://developer.huaweicloud.com/intl/en-us/sdk?IMAGE
+
  Not: I didn't get AK and SK from edit text box, instead of this, I created Huawei Account information in java class and I pulled them, the reason is every each time I didn't want to fill the edit texts  :)
 
 
