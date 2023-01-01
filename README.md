@@ -21,7 +21,20 @@ huawei-cloud-practicum-final-case
     }
 
 
----------------------------------------
+## Android SDK
+
+https://support.huaweicloud.com/intl/en-us/sdk-android-devg-obs/obs_26_1801.html
+
+## Object Storage Service 3.0 (OBS) 3.21.9h&s
+
+https://doc.hcs.huawei.com/obs/doc/download/pdf/obs-usermanual.pdf
+
+## How Do I Preview Objects in OBS Through a Browser?
+
+https://support.huaweicloud.com/intl/en-us/obs_faq/obs_03_0087.html#obs_03_0087__section178791518193918
+
+ Not: I didn't get AK and SK from edit text box, instead of this, I created Huawei Account information in java class and I pulled them, the reason is every each time I didn't want to fill the edit texts  :)
+
 
 
         
