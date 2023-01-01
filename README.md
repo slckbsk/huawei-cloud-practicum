@@ -42,7 +42,7 @@ https://www.loom.com/share/8e3417c85a4d4b36b504cb18cbf8e029
  Not: I didn't get AK and SK from edit text box, instead of this, I created Huawei Account information in java class and I pulled them, the reason is every each time I didn't want to fill the edit texts  :)
 
 
-## Screenshot 
+## Screenshots
 https://github.com/slckbsk/huawei-cloud-practicum/tree/main/Project-Image
 
 
