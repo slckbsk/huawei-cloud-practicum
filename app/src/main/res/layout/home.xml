@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_gravity="center"
+    android:background="@color/whiteCardColor">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        style="@style/linearParent"
+        android:gravity="center"
+        android:padding="@dimen/loginViewsMargin">
+
+        <ImageView
+            style="@style/headerTextPrimary"
+            android:text="@string/huawei"
+            android:background="@drawable/logo1"
+            android:layout_marginTop="@dimen/loginViewsMargin"
+            tools:ignore="ContentDescription" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/parent"
+            android:layout_marginTop="@dimen/loginViewsMargin">
+            <EditText
+                android:id="@+id/editTextendPoint"
+                style="@style/modifiedEditText"
+                android:inputType="text"
+                android:maxLines="1"
+                android:hint="@string/endPoint_hint"
+                android:importantForAutofill="no" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/parent"
+            android:layout_marginTop="@dimen/loginViewsMargin">
+            <EditText
+                android:id="@+id/editTextAK"
+                style="@style/modifiedEditText"
+                android:hint="@string/ak_hint"
+                android:maxLines="1"
+                android:inputType="textPassword"
+                android:importantForAutofill="no" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/parent"
+            android:layout_marginTop="@dimen/loginViewsMargin">
+            <EditText
+                android:id="@+id/editTextSK"
+                style="@style/modifiedEditText"
+                android:inputType="textPassword"
+                android:maxLines="1"
+                android:hint="@string/sk_hint"
+                android:importantForAutofill="no" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/parent"
+            android:layout_marginTop="@dimen/loginViewsMargin">
+            <EditText
+                android:id="@+id/editTextLocation"
+                style="@style/modifiedEditText"
+                android:hint="@string/location_hint"
+                android:maxLines="1"
+                android:inputType="text"
+                android:importantForAutofill="no" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <Button
+            android:layout_width="180dp"
+            android:layout_height="50dp"
+            android:id="@+id/cirLoginButton"
+            style="@style/loginButton"
+            android:text="@string/bucket_list"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/loginViewsMargin"/>
+
+        <TextView
+            android:id="@+id/accountInfo"
+            style="@style/parent"
+            android:layout_marginTop="@dimen/loginViewsMargin"
+            android:minHeight="48dp"
+            android:text="@string/login_signup_hint"
+            android:textAlignment="center"
+            android:textColor="#039BE5"/>
+
+
+    </LinearLayout>
+</LinearLayout>
