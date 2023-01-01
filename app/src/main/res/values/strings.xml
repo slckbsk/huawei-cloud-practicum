@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Huawei Application</string>
+    <string name="endPoint_hint">End Point</string>
+    <string name="ak_hint">Access Key</string>
+    <string name="sk_hint">Security Key</string>
+    <string name="location_hint">Location</string>
+    <string name="login_signup_hint">Don\'t have an account? \n Account Registration Process</string>
+    <string name="huawei">HUAWEI</string>
+    <string name="bucket_list">Bucket List</string>
+    <string name="you_are_not_connected_to_the_internet">You are not connected to the Internet</string>
+    <string name="cancel" tools:ignore="ButtonCase">CANCEL</string>
+    <string name="folder_name_is_necessary">Folder name is necessary</string>
+    <string name="file_location_empty">File location is necessary</string>
+
+    <string name="internal_storage">Internal storage</string>
+</resources>
+
