@@ -31,7 +31,7 @@ https://doc.hcs.huawei.com/obs/doc/download/pdf/obs-usermanual.pdf
 
 ## How Do I Preview Objects in OBS Through a Browser?
 
-https://support.huaweicloud.com/intl/en-us/obs_faq/obs_03_0087.html#obs_03_0087__section178791518193918
+https://support.huaweicloud.com/intl/en-us/obs_faq/obs_03_0087.html
 
 ## Image Tagging SDK
 https://developer.huaweicloud.com/intl/en-us/sdk?IMAGE
