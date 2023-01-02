@@ -20,6 +20,21 @@ huawei-cloud-practicum-final-case
         mavenCentral()
     }
 
+## -----------------------
+## SERVICES I USE IN HUAWEI CLOUD
+- API Credentials => Creating Access key and Security key.
+- Object Storage Service => Creating Bucket and Bucket operation, Adding image object to buckets and use the object for image tagging and preview objects in OBS through a browser
+- Domain Name Management => Binding the user-defined domain name to the OBS bucket
+- Domain Name Service => Creating Public Zones for User-Defined Domain Name and adding CNAME record created on CDN.
+- Content Delivery Network => Preparing user-defined domain name as an acceleration domain name.
+- SSL Certificate Manager (SCM) => Creating test certificate (SSL) and deploy to User-Defined Domain Name
+- Image Recognition => For Image Tagging Services
+
+## OTHER SERVICES
+- my.freenom.com => Getting free domain name for test and changing nameservers, Using HUAWEI CLOUD DNS nameservers as a custom nameservers.
+## -----------------------
+
+
 
 ## Android SDK
 
